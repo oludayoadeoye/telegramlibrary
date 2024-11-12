@@ -1,0 +1,42 @@
+Date: 11/11/2024
+Time: 14:45
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_8741.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 14:48
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_34348.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 14:52
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_48672.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 14:54
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_36053.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 15:9
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_15227.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 15:13
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_39708.jpg
+Caption: 
+--------------------
+Date: 11/11/2024
+Time: 15:19
+Group ID: Testgroup23
+Image: /home/deetech/Documents/nextks/fastapi/allscrapper/downloads/photo_12493.jpg
+Caption: 
+--------------------

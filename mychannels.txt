@@ -1,0 +1,1835 @@
+Initializing configured targets...
+✗ Failed to add target myrosai: Invalid target format: myrosai (Could not find channel: myrosai)
+✗ Failed to add target PythonEngineers: Invalid target format: PythonEngineers (Could not find channel: PythonEngineers)
+
+No valid targets found. Please check your TELEGRAM_TARGETS in .env
+
+Available Channels and Groups:
+--------------------------------------------------
+Channel: Find a Job Community
+ID: -1002243935744
+Username: @AIhawkCommunity
+--------------------------------------------------
+Channel: Artificial Intelligence Engineering - AINeering.com
+ID: -1001961116802
+Username: @aineeringdotcom
+--------------------------------------------------
+Channel: Content Writas Chat
+ID: -1002197137216
+Username: @ContentWritasChat
+--------------------------------------------------
+Group: EMKTS 2
+ID: -4568864997
+--------------------------------------------------
+Channel: Golang GO
+ID: -1001233088160
+Username: @golangl
+--------------------------------------------------
+Channel: MEGA FREE COURSES
+ID: -1001172705136
+Username: @mega_free_courses
+--------------------------------------------------
+Channel: Deep Learning Expert people
+ID: -1001179287197
+Username: @DeepLearningAIExperts
+--------------------------------------------------
+Channel: SlideShare , Issuu, Scribd Downloader📥⬇️
+ID: -1001165562006
+Username: @Slidesharedownloader
+--------------------------------------------------
+Channel: Affirmation Train
+ID: -1001103419144
+Username: @dailyaffirmations
+--------------------------------------------------
+Channel: Rust Programming Language
+ID: -1001137929410
+Username: @rust_community
+--------------------------------------------------
+Channel: LOVEWORLD_WORDFEST🇬🇭
+ID: -1001853276393
+Username: @Loveworld_WordFest
+--------------------------------------------------
+Channel: Auto Udemy
+ID: -1001502099529
+Username: @AutoUdemy
+--------------------------------------------------
+Channel: Ameware Group - Vacancies
+ID: -1001560778304
+Username: @Ameware_jobs
+--------------------------------------------------
+Channel: LoveWorld Chαts
+ID: -1001925937523
+Username: @loveworldchats
+--------------------------------------------------
+Channel: Lօvҽωօɾlժ Tҽlҽcօm
+ID: -1001889798609
+--------------------------------------------------
+Channel: RHAPSODY OF REALITIES DAILY DEVOTIONAL #1
+ID: -1001200770197
+Username: @loveworldInc
+--------------------------------------------------
+Channel: 𝐂𝐄 𝐋𝐎𝐕𝐄𝐖𝐎𝐑𝐋𝐃 𝐆𝐑𝐎𝐔𝐏 𝐃𝐈𝐑𝐄𝐂𝐓𝐎𝐑𝐒 𝐆𝐋𝐎𝐁𝐀𝐋 𝐈𝐍𝐅𝐋𝐔𝐄𝐍𝐂𝐄𝐑𝐒
+ID: -1001866635202
+Username: @lovewordglobalinfluencers
+--------------------------------------------------
+Channel: 𝐋𝐖𝐅 𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧
+ID: -1002086803991
+--------------------------------------------------
+Channel: Java Guru 🤓
+ID: -1001757756583
+Username: @javatasks
+--------------------------------------------------
+Channel: Free SlideShare Downloader ⏬📒
+ID: -1002007684360
+Username: @MathExactGroup
+--------------------------------------------------
+Channel: Team GRACE (Loveworld Scribes) ✍🏼
+ID: -1001493658813
+--------------------------------------------------
+Channel: سید محمد خشنوا و رفقا / Programming
+ID: -1001307331346
+--------------------------------------------------
+Channel: PythonEngineers
+ID: -1002110989561
+--------------------------------------------------
+Channel: Библиотека джависта | Java, Spring, Maven, Hibernate
+ID: -1001215056194
+Username: @javaproglib
+--------------------------------------------------
+Channel: Java библиотека
+ID: -1001428214487
+Username: @javalib
+--------------------------------------------------
+Channel: Data Science Jobs
+ID: -1001321264581
+Username: @datasciencejobs
+--------------------------------------------------
+Channel: VAWZINE™
+ID: -1001820441775
+Username: @VAWZINEOFFICIEL
+--------------------------------------------------
+Channel: 📚LW Scribes Community
+ID: -1001301316781
+--------------------------------------------------
+Channel: Compose Broadcast
+ID: -1001706297738
+Username: @compose_broadcast
+--------------------------------------------------
+Channel: Job for Analysts & Data Scientists
+ID: -1001137236002
+Username: @foranalysts
+--------------------------------------------------
+Channel: Job for Go, Rust Developers
+ID: -1001205871598
+Username: @forgoandrust
+--------------------------------------------------
+Channel: Job for Ruby & Elixir
+ID: -1001158856785
+Username: @forruby
+--------------------------------------------------
+Channel: Blender: Free Universe
+ID: -1002015162293
+Username: @BlenderUniverse
+--------------------------------------------------
+Channel: Blender: Storage
+ID: -1002079058546
+Username: @BlenderStorage
+--------------------------------------------------
+Channel: Spring Boot Framework
+ID: -1001285291693
+Username: @SpringFrameworkZone
+--------------------------------------------------
+Channel: Vawzine
+ID: -1001907949476
+Username: @vawzine
+--------------------------------------------------
+Channel: myrosai
+ID: -1002316727504
+--------------------------------------------------
+Channel: Group Booster Support
+ID: -1001101697396
+Username: @CleanRobotHelp
+--------------------------------------------------
+Channel: Mingle
+ID: -1001435609168
+--------------------------------------------------
+Channel: Kotlin Community
+ID: -1001032833563
+--------------------------------------------------
+Channel: DevTwitter | توییت برنامه نویسی
+ID: -1001377200663
+Username: @devtwitter
+--------------------------------------------------
+Channel: Spring Boot Microservices Java Group Discussion Chat Developers Programmers Coder
+ID: -1001946424317
+Username: @SpringBootMicroservices
+--------------------------------------------------
+Channel: Python Data Science Machine Learning
+ID: -1001423571990
+Username: @DataScience9
+--------------------------------------------------
+Channel: Free Excel Templates
+ID: -1001326384337
+Username: @freeexceltemplates
+--------------------------------------------------
+Channel: Free DevOps/Cloud Tech Community
+ID: -1001985932488
+Username: @prodevopsguy
+--------------------------------------------------
+Channel: Spring Boot
+ID: -1001356931430
+Username: @spring_en
+--------------------------------------------------
+Channel: Remote Java Jobs
+ID: -1002091866554
+Username: @remote_java_jobs
+--------------------------------------------------
+Channel: Mingle 1-Year Bible Study Plan
+ID: -1001419005854
+--------------------------------------------------
+Channel: Python | Machine Learning | Coding | R
+ID: -1001443765280
+Username: @CodeProgrammer
+--------------------------------------------------
+Group: MODERATORS GUILD 1YBRP
+ID: -880801283
+--------------------------------------------------
+Channel: LOVEWORLD SINGERS LYRICS REQUEST
+ID: -1001692887855
+Username: @loveworldsingerslyricsrequest
+--------------------------------------------------
+Channel: Mingle Prayer Hub
+ID: -1001277854885
+--------------------------------------------------
+Channel: k8s (in)security
+ID: -1001390522820
+Username: @k8security
+--------------------------------------------------
+Channel: Библиотека Java разработчика
+ID: -1001285566241
+Username: @BookJava
+--------------------------------------------------
+Channel: Java Job | Вакансии | Работа
+ID: -1001411007322
+Username: @job_javadevs
+--------------------------------------------------
+Channel: GitHub repos
+ID: -1001065452260
+Username: @github_repos
+--------------------------------------------------
+Channel: Pastor Chris on Every Device
+ID: -1001282977494
+Username: @OMSGAN
+--------------------------------------------------
+Channel: Android & Spring Boot Freelance
+ID: -1001346899263
+Username: @freelancerteam1
+--------------------------------------------------
+Channel: LOVEWORLD WORD DEPOT - MESSAGES||MUSIC||VIDEOS
+ID: -1001488565362
+Username: @WordDepot
+--------------------------------------------------
+Channel: Java Express Official
+ID: -1001715272387
+Username: @javaexpressofficial
+--------------------------------------------------
+Channel: Data Science & Data Engineering Jobs & Courses
+ID: -1001891664362
+Username: @dataanalyticsbuddy
+--------------------------------------------------
+Channel: Pastor Chris on Every Device📱📲💻🖥
+ID: -1001775650325
+--------------------------------------------------
+Channel: PASTOR CHRIS MESSAGES 📱📲💻🖥📸🎛
+ID: -1001201122559
+Username: @PCmsgschannel
+--------------------------------------------------
+Channel: DevSecOps Talks
+ID: -1001336968975
+Username: @devsecops_weekly
+--------------------------------------------------
+Channel: LoveWorld Digital
+ID: -1001160731107
+Username: @LoveWorldDigital
+--------------------------------------------------
+Channel: Python Courses
+ID: -1001838046737
+Username: @Python53
+--------------------------------------------------
+Channel: Kube Careers
+ID: -1001490152256
+Username: @KubeCareers
+--------------------------------------------------
+Channel: Coding Army 🎭
+ID: -1002170345990
+Username: @codingarmy
+--------------------------------------------------
+Channel: بايثون عربي - Python Arab
+ID: -1001302240663
+Username: @PythonArab
+--------------------------------------------------
+Channel: Next.js
+ID: -1001307773613
+Username: @nextjs
+--------------------------------------------------
+Channel: AWS Cloud (SA, DevOps, Developer, ML)
+ID: -1001336497238
+Username: @k21amazonaws
+--------------------------------------------------
+Channel: Gamesdrive T2D
+ID: -1001222232926
+--------------------------------------------------
+Channel: Golang Jobs
+ID: -1001566131855
+Username: @golang_jobsgo
+--------------------------------------------------
+Channel: Best AI Tools | ChatGPT 4o | Perplexity
+ID: -1001930983957
+Username: @AI_Best_Tools
+--------------------------------------------------
+Channel: Artificial Intelligence
+ID: -1001711296153
+Username: @machinelearning_deeplearning
+--------------------------------------------------
+Channel: Pastor Chris Messages🥳
+ID: -1001262046815
+Username: @SpiritResults
+--------------------------------------------------
+Channel: DevOps Workshops (LWPLabs.com)
+ID: -1001306936137
+Username: @lwpLabs
+--------------------------------------------------
+Channel: 卄ҽalíɳg ScɧσσƖ
+ID: -1001464149139
+Username: @divinehealthconfessions
+--------------------------------------------------
+Channel: Java Springboot Microservices
+ID: -1001446358952
+Username: @javaprojectgroup
+--------------------------------------------------
+Channel: Blender course for free
+ID: -1001242772674
+Username: @blendercourseforfree
+--------------------------------------------------
+Channel: Rhapsody Of Realities Daily Devotional
+ID: -1001082887025
+Username: @rhapsodyofrealitiesforall
+--------------------------------------------------
+Channel: Haradhan pal Automation Group
+ID: -1001193960204
+--------------------------------------------------
+Channel: Kube Events
+ID: -1001536348733
+Username: @KubeEvents
+--------------------------------------------------
+Channel: 🤖 OpenAI | ChatGPT | GPT-4o | GPT-4👨🏻‍💻
+ID: -1002084625070
+Username: @gpt_anthropic
+--------------------------------------------------
+Channel: CoolGithubProjects
+ID: -1001277159726
+Username: @r_CoolGithubProjects
+--------------------------------------------------
+Channel: Ɍɦαρsσdy Dαílíҽs
+ID: -1001381728763
+Username: @Rhapsodydailies
+--------------------------------------------------
+Channel: Learn With Faizan
+ID: -1001939875640
+--------------------------------------------------
+Channel: Motion | 3D | 2D | FILES
+ID: -1001738602458
+Username: @maximkino4d
+--------------------------------------------------
+Channel: Ɍɦαρsσ𝚍y ᗅu𝚍íσ
+ID: -1001429586167
+Username: @rhapsodyaudio
+--------------------------------------------------
+Channel: Tҽҽⓥo Dαílíҽs‍
+ID: -1001237728713
+Username: @teevodailies
+--------------------------------------------------
+Channel: ᗴarly Ɍeaders
+ID: -1001334810243
+Username: @earlyreaders
+--------------------------------------------------
+Channel: LoveWorld Hub {Pastor Chris Oyakhilome Message}
+ID: -1001156657735
+Username: @PastorChrisOyakhilomeMessageText
+--------------------------------------------------
+Channel: JenkinsCI
+ID: -1001156922298
+Username: @jenkinsci
+--------------------------------------------------
+Channel: Meysam
+ID: -1001883737732
+Username: @ai_person
+--------------------------------------------------
+Channel: Learnk8s news
+ID: -1001248452094
+Username: @Learnk8sNews
+--------------------------------------------------
+Channel: Affirmation Music Library
+ID: -1001128401716
+Username: @affirmationmedia
+--------------------------------------------------
+Channel: DevOps/SRE_Jobs
+ID: -1001809193310
+Username: @DevOpsSRE_Jobs
+--------------------------------------------------
+Channel: 9to5Linux.com
+ID: -1001456310423
+Username: @ninetofivelinux
+--------------------------------------------------
+Channel: ProgrammingExpert Chat
+ID: -1002063409818
+Username: @algo_expert
+--------------------------------------------------
+Channel: Data Science | Machine Learning with Python for Researchers
+ID: -1001695655637
+Username: @DataScienceT
+--------------------------------------------------
+Channel: commit -m "better"
+ID: -1001567842955
+Username: @itpgchannel
+--------------------------------------------------
+Channel: Библиотека программиста | программирование, кодинг, разработка
+ID: -1001039626561
+--------------------------------------------------
+Channel: Библиотека Go разработчика | Golang
+ID: -1001465826763
+Username: @goproglib
+--------------------------------------------------
+Channel: AI Post — Artificial Intelligence news
+ID: -1001526709058
+--------------------------------------------------
+Channel: Angular - русскоговорящее сообщество
+ID: -1001063506265
+Username: @angular_ru
+--------------------------------------------------
+Channel: 𝐄𝐧𝐯𝐚𝐭𝐨 - 𝐅𝐫𝐞𝐞𝐏𝐢𝐤 - 𝐀𝐝𝐨𝐛𝐞 - 𝐒𝐡𝐮𝐭𝐭𝐞𝐫𝐒𝐭𝐨𝐜𝐤 - 𝐒𝐥𝐢𝐝𝐞𝐒𝐡𝐚𝐫𝐞 - 𝐀𝐧𝐝 𝐌𝐨𝐫𝐞 ⚡️
+ID: -1002094027829
+Username: @stockdl_group
+--------------------------------------------------
+Channel: Kubernetes Architect
+ID: -1001161699522
+Username: @KubernetesArchitect
+--------------------------------------------------
+Channel: Free Open Source Posthumanism
+ID: -1001786357685
+Username: @shitposthumanism
+--------------------------------------------------
+Channel: Pastor Chris Digital Library
+ID: -1001562293794
+Username: @pcdlco
+--------------------------------------------------
+Channel: Data Science Questions, Answers, Quizzes, Interviews
+ID: -1002133357008
+Username: @DataScienceQ
+--------------------------------------------------
+Channel: Data Science and Programming Languages Free Courses
+ID: -1001259320542
+Username: @udemy13
+--------------------------------------------------
+Channel: Data Science courses
+ID: -1001943137813
+--------------------------------------------------
+Channel: Data Science Machine Learning Data Analysis Books
+ID: -1001922388839
+Username: @DataScienceM
+--------------------------------------------------
+Channel: Programming Languages | Web & Mobile Development | SQL | Software Design & Analysis
+ID: -1001864702447
+Username: @Ebooks2023
+--------------------------------------------------
+Channel: Python | Algorithms | Data Structures | Cyber ​​Security | Networks
+ID: -1001519867276
+Username: @DataScience4
+--------------------------------------------------
+Channel: Data Science Books
+ID: -1001854405158
+--------------------------------------------------
+Channel: Pastor Enoch Messages
+ID: -1001737136660
+Username: @pastorenoch_messages
+--------------------------------------------------
+Channel: QA , Testing Jobs & Discussion (Alert: Only Frauds Asks Money for Job)
+ID: -1001552537212
+Username: @SoftwareQATesters
+--------------------------------------------------
+Channel: Сайтодел | GitHub, Верстка, Сайты, FullStack
+ID: -1001236863784
+Username: @sitodel
+--------------------------------------------------
+Channel: Yobby - freelance IT jobs: JavaScript, TypeScript, React, Vue.js, Angular, Node.js, Java, Python, Django, DevOps, Design, fully
+ID: -1001961716587
+Username: @theyobby
+--------------------------------------------------
+Channel: Kubesploit
+ID: -1001491056529
+Username: @Kubesploit
+--------------------------------------------------
+Channel: Progbook.djvu | Книги для программистов
+ID: -1001309608108
+Username: @progbook2
+--------------------------------------------------
+Channel: Йо-хо-хо для программистов
+ID: -1001992947650
+Username: @progbook_extra
+--------------------------------------------------
+Channel: Библиотека задач по Python | тесты, код, задания
+ID: -1001906153670
+Username: @py_problems_lib
+--------------------------------------------------
+Channel: Python jobs — вакансии по питону, Django, Flask
+ID: -1001362026498
+Username: @pydevjob
+--------------------------------------------------
+Channel: Go jobs — вакансии по Go
+ID: -1001295906671
+Username: @godevjob
+--------------------------------------------------
+Channel: Javascript jobs — вакансии по фронтенду, джаваскрипт, React, Angular, Vue
+ID: -1001247420798
+Username: @jsdevjob
+--------------------------------------------------
+Channel: Java jobs — вакансии для java-разработчиков
+ID: -1001470492937
+Username: @javadevjob
+--------------------------------------------------
+Channel: Proglib.academy | IT-курсы
+ID: -1001727734638
+Username: @proglib_academy
+--------------------------------------------------
+Channel: eBook Room
+ID: -1001476300433
+Username: @eBookRoom
+--------------------------------------------------
+Channel: Rust Jobs without Blockchain
+ID: -1001634184562
+Username: @rust_jobs_nobc
+--------------------------------------------------
+Channel: Rust Jobs — Лента вакансий и резюме
+ID: -1001395114157
+Username: @rust_jobs_feed
+--------------------------------------------------
+Channel: Remote QA Jobs 🌐✨
+ID: -1002127172268
+Username: @remote_qa_jobs
+--------------------------------------------------
+Channel: DevOps & SRE notes
+ID: -1001207413403
+Username: @devops_sre_notes
+--------------------------------------------------
+Channel: PSDLY.COM
+ID: -1001799961899
+Username: @psdly_official
+--------------------------------------------------
+Channel: FINGRIP COMMUNITY (SAVING AND INVESTING)
+ID: -1002037435779
+--------------------------------------------------
+Channel: Soft Hub — плагины и программы
+ID: -1001241930888
+Username: @softhu_b
+--------------------------------------------------
+Channel: CG Tutorials
+ID: -1001581182022
+Username: @cg_tuts
+--------------------------------------------------
+Channel: BlenderPlugs
+ID: -1001781737016
+Username: @blenderplugs
+--------------------------------------------------
+Channel: CG plugins
+ID: -1001755696001
+Username: @cgplugdump
+--------------------------------------------------
+Channel: Java Learning
+ID: -1001260883373
+Username: @Java_per_month
+--------------------------------------------------
+Channel: Data Science Jobs
+ID: -1001601022378
+Username: @datascienceml_jobs
+--------------------------------------------------
+Channel: infosec
+ID: -1001418901040
+Username: @it_secur
+--------------------------------------------------
+Channel: Cloud Dost
+ID: -1001806658663
+Username: @clouddost
+--------------------------------------------------
+Channel: Artificial intelligence and Machine Learning
+ID: -1001295137847
+Username: @machine_learning_courses
+--------------------------------------------------
+Channel: Секреты Java
+ID: -1002074108051
+--------------------------------------------------
+Channel: Mobile Developer
+ID: -1001239694095
+Username: @mobiledevnews
+--------------------------------------------------
+Channel: DevOps&SRE Library
+ID: -1001329220738
+Username: @devopslibrary
+--------------------------------------------------
+Channel: Rust
+ID: -1001682007617
+Username: @rust_code
+--------------------------------------------------
+Channel: IT менторы | Антон Назаров
+ID: -1001759725065
+Username: @it_mentors
+--------------------------------------------------
+Channel: Off Campus Drive | Fresher & Experience - Your Career
+ID: -1001294998081
+Username: @yourcareer0
+--------------------------------------------------
+Channel: Golang
+ID: -1001360992328
+Username: @Golang_google
+--------------------------------------------------
+Channel: Java
+ID: -1001411601587
+Username: @javatg
+--------------------------------------------------
+Channel: Linux Academy
+ID: -1001980667430
+Username: @linuxacademiya
+--------------------------------------------------
+Channel: django_jobs_board
+ID: -1001154585596
+Username: @django_jobs_board
+--------------------------------------------------
+Channel: Data science Архив бесплатных курсов
+ID: -1001958472082
+--------------------------------------------------
+Channel: AI.News.Daily
+ID: -1002058511945
+Username: @ainews_daily
+--------------------------------------------------
+Channel: Cloud.ru
+ID: -1001498824206
+Username: @cloudruprovider
+--------------------------------------------------
+Channel: Tutor Tut — база курсов по дизайну
+ID: -1001963319155
+--------------------------------------------------
+Channel: Похек
+ID: -1001789583754
+Username: @poxek
+--------------------------------------------------
+Channel: NeetCode dsa and system design
+ID: -1002164726872
+--------------------------------------------------
+Channel: Devops Learners
+ID: -1001624079327
+Username: @devopslearners
+--------------------------------------------------
+Channel: JavaScript
+ID: -1001924414526
+--------------------------------------------------
+Channel: Social Engineering
+ID: -1001315676483
+--------------------------------------------------
+Channel: Telegram Tips
+ID: -1001224624669
+Username: @TelegramTips
+--------------------------------------------------
+Channel: Блог*
+ID: -1001362208952
+Username: @dereference_pointer_there
+--------------------------------------------------
+Channel: ailthingsAI
+ID: -1002329270070
+--------------------------------------------------
+Channel: DevITJobs.uk - Software Developer & IT Jobs in London and the United Kingdom (UK)
+ID: -1001481121147
+Username: @devitjobs
+--------------------------------------------------
+Channel: Библиотека задач по Java | тесты, код, задания
+ID: -1001788713001
+Username: @java_problems_lib
+--------------------------------------------------
+Channel: Библиотека собеса по Java | вопросы с собеседований
+ID: -1001890717391
+Username: @java_interview_lib
+--------------------------------------------------
+Channel: Книги для программистов
+ID: -1001135553470
+Username: @progbook
+--------------------------------------------------
+Channel: 🔸CEYC SONGS 🔸
+ID: -1001764442896
+Username: @ceycsongs
+--------------------------------------------------
+Channel: Java | Фишки и трюки
+ID: -1001635707605
+Username: @java_tips_and_tricks
+--------------------------------------------------
+Channel: AWS Cloud Group
+ID: -1001738119602
+Username: @awscloudgroup
+--------------------------------------------------
+Channel: GitHub Trends
+ID: -1001080389054
+Username: @githubtrending
+--------------------------------------------------
+Channel: Android Broadcast
+ID: -1001264815755
+Username: @android_broadcast
+--------------------------------------------------
+Channel: Kotlin Broadcast
+ID: -1001437626893
+Username: @kotlin_broadcast
+--------------------------------------------------
+Channel: Open Source
+ID: -1001289166992
+Username: @open_source_friend
+--------------------------------------------------
+Channel: Best books | Ebooks & Audiobooks | Top lists | Recommendations
+ID: -1001902423868
+Username: @book_lists
+--------------------------------------------------
+Channel: Java/Kotlin and more
+ID: -1001138822870
+Username: @springframeworkio
+--------------------------------------------------
+Channel: Learn DevOps & Cloud for Free (AWS, Kubernetes, Terraform, Linux, Git, Ansible, Jenkins, Cloud)
+ID: -1001578609926
+Username: @LearnDevOpsForFree
+--------------------------------------------------
+Channel: Sysadmin Tools 🇺🇦
+ID: -1001111456594
+Username: @sysadmin_tools
+--------------------------------------------------
+Channel: Python Hints
+ID: -1001898229283
+Username: @pyHints
+--------------------------------------------------
+Channel: Funded PhD, Postdoc & Research Jobs
+ID: -1001630854753
+Username: @fellowshipbard
+--------------------------------------------------
+Channel: Python Projects & Resources
+ID: -1001531635981
+Username: @pythondevelopersindia
+--------------------------------------------------
+Channel: Библиотека задач по Data Science | тесты, код, задания
+ID: -1001955662795
+Username: @ds_problems_lib
+--------------------------------------------------
+Channel: Python Interview Books
+ID: -1001753392934
+Username: @dsabooks
+--------------------------------------------------
+Channel: Data Science Projects
+ID: -1001813925194
+Username: @pythonspecialist
+--------------------------------------------------
+Channel: DevOps
+ID: -1001465229531
+Username: @DevOPSitsec
+--------------------------------------------------
+Channel: Data Science | Machine Learning & Artificial Intelligence | Deep Learning & Generative AI
+ID: -1001441864014
+Username: @datasciencefree
+--------------------------------------------------
+Channel: Kali Linux
+ID: -1001175723706
+Username: @linuxkalii
+--------------------------------------------------
+Channel: Мониторим ИТ
+ID: -1001368216193
+Username: @monitorim_it
+--------------------------------------------------
+Channel: Computer Science Interview Books
+ID: -1001890974263
+Username: @InterviewBooks
+--------------------------------------------------
+Channel: Paid Course Free Mega Link
+ID: -1001503430658
+Username: @PaidCourses_FreeLinks
+--------------------------------------------------
+Channel: Notes
+ID: -1002051724183
+Username: @Dincnotes
+--------------------------------------------------
+Channel: Книги для дата сайентистов | Data Science
+ID: -1001967634356
+Username: @dsprogbook
+--------------------------------------------------
+Channel: Книги для джавистов | Java
+ID: -1001997654940
+Username: @javaprogbook
+--------------------------------------------------
+Channel: Kotlin Developer
+ID: -1001679573921
+Username: @KotlinSenior
+--------------------------------------------------
+Channel: Senior Java Developer
+ID: -1001529589156
+Username: @seniorjavist
+--------------------------------------------------
+Channel: CatOps
+ID: -1001145020158
+Username: @catops
+--------------------------------------------------
+Channel: Java jobs, Spring Boot, JSF, J2EE - NotificaJobs 📬
+ID: -1001531649521
+Username: @notificaJobs_JAVA
+--------------------------------------------------
+Channel: John Obidi’s Blog
+ID: -1001244985922
+Username: @JohnObidiBlog
+--------------------------------------------------
+Channel: ThemeGrizzly | WordPress, Joomla, React
+ID: -1001465865832
+Username: @themegrizzly
+--------------------------------------------------
+Channel: Golang вопросы собеседований
+ID: -1001506243534
+Username: @golang_interview
+--------------------------------------------------
+Channel: AWS Amazon Cloud & DevOps
+ID: -1001156792353
+Username: @k21amazonawsSAAC03
+--------------------------------------------------
+Channel: Чашечка Java
+ID: -1001543834379
+Username: @a_cup_of_java
+--------------------------------------------------
+Channel: LOVEWORLD ACCRA 🇬🇭
+ID: -1001905636376
+Username: @LoveworldAccra
+--------------------------------------------------
+Channel: AI Prompts | ChatGPT | Google Gemini | Claude
+ID: -1002085253794
+Username: @aiindi
+--------------------------------------------------
+Channel: In AsyncTask We Trust
+ID: -1001497530566
+Username: @android_mem
+--------------------------------------------------
+Channel: Go Library
+ID: -1001228132127
+Username: @golanglibrary
+--------------------------------------------------
+Channel: Udemy
+ID: -1001610233192
+Username: @udemyrip
+--------------------------------------------------
+Channel: 3Dsky Black Collection 🌑
+ID: -1001607356011
+Username: @my_3dsky
+--------------------------------------------------
+Channel: Programming, data science, ML - free courses by Big Data Specialist
+ID: -1001410448102
+Username: @bigdataspecialist
+--------------------------------------------------
+Channel: Coding interview preparation
+ID: -1001308712623
+Username: @coding_interview_preparation
+--------------------------------------------------
+Channel: Microservices Thoughts
+ID: -1002023739581
+Username: @MicroservicesThoughts
+--------------------------------------------------
+Channel: Free Programming Books Coding Computer Ebooks Pdf BCA MCA Btech IT
+ID: -1002085071797
+Username: @Free_Programming_Books
+--------------------------------------------------
+Channel: ChatGPT & AI Resources
+ID: -1002080462919
+Username: @learngpt
+--------------------------------------------------
+Channel: Ɍɦαρsσdy Languages
+ID: -1001859680946
+Username: @rhapsodylanguages
+--------------------------------------------------
+Channel: Data Analyst Interview Resources
+ID: -1001928877851
+Username: @DataAnalystInterview
+--------------------------------------------------
+Channel: Jobs | Internships | Placement | Interviews
+ID: -1001409153549
+Username: @getjobss
+--------------------------------------------------
+Channel: Free Online Courses with Certificate | Udacity Free Courses | Eduonix | IP Cybersecurity | Coursera | Premium Certified Courses
+ID: -1001354192622
+Username: @udacityfreecourse
+--------------------------------------------------
+Channel: Udemy Free Courses | Coding | ChatGPT | AI Crypto | Microsoft Certificate | Artificial Intelligence
+ID: -1001261561054
+Username: @udemy_free_courses_with_certi
+--------------------------------------------------
+Channel: Artificial Intelligence | AI Chatbots | Coding Interviews
+ID: -1001581585566
+Username: @Curiousprogrammer
+--------------------------------------------------
+Channel: Data Science & Machine Learning
+ID: -1001167759653
+Username: @datasciencefun
+--------------------------------------------------
+Channel: Excel for Data Analysis
+ID: -1001507875929
+Username: @excel_analyst
+--------------------------------------------------
+Channel: Data Analysts
+ID: -1001759137927
+Username: @sqlspecialist
+--------------------------------------------------
+Channel: SQL for Data Analysis
+ID: -1001867793926
+Username: @sqlanalyst
+--------------------------------------------------
+Channel: Microsoft Power BI | Tableau | Data Visualization
+ID: -1001926764027
+Username: @PowerBI_analyst
+--------------------------------------------------
+Channel: Data Analyst Jobs
+ID: -1001913125963
+Username: @jobs_SQL
+--------------------------------------------------
+Channel: Coding Interview Resources
+ID: -1001436009078
+Username: @crackingthecodinginterview
+--------------------------------------------------
+Channel: Web Development
+ID: -1001234631110
+Username: @webdevcoursefree
+--------------------------------------------------
+Channel: Programming Resources | Python | Javascript | Artificial Intelligence Updates | Computer Science Courses | AI Books
+ID: -1001322820759
+Username: @programming_guide
+--------------------------------------------------
+Channel: Coding Projects | AI | ML | Java | Python Programming | Artificial Intelligence | Web development
+ID: -1001580025810
+Username: @Programming_experts
+--------------------------------------------------
+Channel: The MarketPlace Ministry w/Pastor Wales
+ID: -1002067704471
+Username: @themarketplaceministry
+--------------------------------------------------
+Channel: Mingle Koinonia Team
+ID: -1001552057311
+--------------------------------------------------
+Channel: Remote Go Jobs
+ID: -1002137363433
+Username: @remote_go_jobs
+--------------------------------------------------
+Channel: LOVEWORLD MUSIC
+ID: -1001218088637
+Username: @loveworldmusical
+--------------------------------------------------
+Channel: Coding Learning
+ID: -1001599333410
+Username: @CodingDrive
+--------------------------------------------------
+Channel: DEVOPS WITH WEBDEV
+ID: -1001952806919
+Username: @Devopswithwebdev
+--------------------------------------------------
+Channel: DEVOPS&SRE ADVANCED BOOTCAMP3
+ID: -1001962660229
+Username: @DevOpsSREbootcamp3
+--------------------------------------------------
+Channel: FREE DEVOPS BOOTCAMP7
+ID: -1002068518260
+Username: @freebootcamp7
+--------------------------------------------------
+Channel: Ameerpet Courses Materials
+ID: -1002137064028
+Username: @ameerpetcoursematerials
+--------------------------------------------------
+Channel: 𝘾𝘿𝙄 (𝙉𝙊𝙏𝙀𝙎) 🚩
+ID: -1001977885257
+Username: @CdiNotes
+--------------------------------------------------
+Channel: 3д
+ID: -1001825083098
+Username: @blender_addonss
+--------------------------------------------------
+Channel: от СЕРДЦА к РАЗУМУ
+ID: -1002140793251
+Username: @dumki_romashki
+--------------------------------------------------
+Channel: ️Crypto Rates, Prices and news
+ID: -1002128773770
+Username: @CryptoRates1
+--------------------------------------------------
+Channel: PRO Go
+ID: -1001920390702
+Username: @pro_gofer
+--------------------------------------------------
+Channel: Remote Python Jobs: Find your dream remote Python job!
+ID: -1002123728528
+Username: @remote_python_jobs
+--------------------------------------------------
+Channel: Remote AI/ML/Data Science Jobs
+ID: -1002114749008
+Username: @remote_ai_jobs
+--------------------------------------------------
+Channel: Data Analytics Projects
+ID: -1001861794677
+Username: @sqlproject
+--------------------------------------------------
+Channel: Data Science & Machine Learning Interviews
+ID: -1002084577860
+Username: @DataScienceInterviews
+--------------------------------------------------
+Channel: There will be no singularity
+ID: -1001422650766
+Username: @nosingularity
+--------------------------------------------------
+Channel: Epic Music / Ambient
+ID: -1001173314315
+Username: @epic_musicM
+--------------------------------------------------
+Channel: Heuristics AI
+ID: -1001985406231
+Username: @heuristics_ai
+--------------------------------------------------
+Channel: JavaCamp
+ID: -1001335552074
+Username: @javacodecamp
+--------------------------------------------------
+Channel: K3sDaily
+ID: -1001371689501
+Username: @K3sDaily
+--------------------------------------------------
+Channel: CGPeers Archive
+ID: -1001883087831
+Username: @Cgpeers_archive
+--------------------------------------------------
+Channel: MRT
+ID: -1001928216254
+Username: @mayabelleresin
+--------------------------------------------------
+Channel: Artificial Intelligence
+ID: -1001450543193
+Username: @Artificial_intelligence_in
+--------------------------------------------------
+Channel: Marie/Rose News
+ID: -1001333854359
+--------------------------------------------------
+Channel: WordPress Themes & Plugins
+ID: -1001261341715
+Username: @wpthemesandplugins
+--------------------------------------------------
+Channel: Computer Science Library : PDF, Notes, Course & Books
+ID: -1001974761392
+Username: @CSLibraries
+--------------------------------------------------
+Channel: Theme 𝐖𝐨𝐫𝐝𝐩𝐫𝐞𝐬𝐬
+ID: -1001456266341
+Username: @Theme_Wordpresss
+--------------------------------------------------
+Channel: Cool GitHub repositories
+ID: -1001266891899
+Username: @github_repositories_bds
+--------------------------------------------------
+Channel: Devops and aws interview preparation Hyderabad
+ID: -1001409817051
+Username: @Hyderabadawsdevopsinterviewprepa
+--------------------------------------------------
+Channel: AWS Notes
+ID: -1001293713420
+Username: @aws_notes
+--------------------------------------------------
+Channel: Startup & Business Ideas
+ID: -1002076773366
+Username: @Learn_Startup
+--------------------------------------------------
+Channel: Data visualization
+ID: -1001267590515
+Username: @data_visualization_bds
+--------------------------------------------------
+Channel: WeMakeDevs
+ID: -1001579486688
+Username: @WeMakeDevs
+--------------------------------------------------
+Channel: Be the expert
+ID: -1001850559824
+Username: @be_the_expert
+--------------------------------------------------
+Channel: AI & Deep Learning
+ID: -1001159553227
+Username: @deeplearning005
+--------------------------------------------------
+Channel: Hack by Abd Official
+ID: -1002103674279
+Username: @hackbyabd_official
+--------------------------------------------------
+Channel: Exousia Bible Study
+ID: -1001706306533
+Username: @exhousiabiblestudy
+--------------------------------------------------
+Channel: BITTU free courses
+ID: -1001961514306
+Username: @joinbittufreecourses
+--------------------------------------------------
+Channel: DevOps DevSecOps & SRE
+ID: -1001369394609
+Username: @securedevops
+--------------------------------------------------
+Channel: LoveWorld Quiz
+ID: -1002169806285
+Username: @loveworldquiz
+--------------------------------------------------
+Channel: Zero To Mastery All Courses
+ID: -1001764664111
+Username: @zero_to_mastery_courses
+--------------------------------------------------
+Channel: Пятничный деплой
+ID: -1001103488303
+Username: @count0_digest
+--------------------------------------------------
+Channel: Книги по Java | Books Java 📚
+ID: -1001755831497
+Username: @java_360
+--------------------------------------------------
+Channel: AI Technology | ChatGPT Prompts
+ID: -1002103649948
+Username: @aijobss
+--------------------------------------------------
+Channel: Kaggle DataSets for Data Science, Machine Learning and Data Analysis
+ID: -1002069838387
+Username: @datasets1
+--------------------------------------------------
+Channel: easyoffer
+ID: -1001916989637
+Username: @easyoffer_ru
+--------------------------------------------------
+Channel: Идущий к IT
+ID: -1001808449460
+Username: @goingtoit
+--------------------------------------------------
+Channel: Testify Today
+ID: -1001212249464
+Username: @testifytoday
+--------------------------------------------------
+Channel: Mosh Hamedani Learning Courses 🦑
+ID: -1001897876125
+Username: @Mosh4Learning
+--------------------------------------------------
+Channel: Что почитать айтишнику? Архив книг. Библиотека программиста.
+ID: -1001923102495
+Username: @booksql
+--------------------------------------------------
+Channel: Jerusalem Prayer Breakfast Offical Channel
+ID: -1001998779856
+Username: @JerusalemPrayerBreakfast
+--------------------------------------------------
+Channel: CleverDevs
+ID: -1001899680039
+Username: @CleverDevs
+--------------------------------------------------
+Channel: Rust - Советы, библиотеки, гайды
+ID: -1001877387142
+Username: @xorust
+--------------------------------------------------
+Channel: Data science/ML/AI
+ID: -1001237015560
+Username: @datascience_bds
+--------------------------------------------------
+Channel: Github_2dust
+ID: -1001628493435
+Username: @github_2dust
+--------------------------------------------------
+Channel: Java News
+ID: -1001184666795
+Username: @java_newss
+--------------------------------------------------
+Channel: Ruby on Rails | rubyclub
+ID: -1001576037743
+Username: @railsclub
+--------------------------------------------------
+Channel: Java Books
+ID: -1001695882993
+Username: @java_library
+--------------------------------------------------
+Channel: Pastor Chris Live
+ID: -1001225785030
+Username: @pastorchrislive
+--------------------------------------------------
+Channel: Learnk8s
+ID: -1001160344183
+Username: @learnk8s
+--------------------------------------------------
+Channel: Spring Discussion Forum
+ID: -1001246680714
+Username: @springboottalks
+--------------------------------------------------
+Channel: Quarkus
+ID: -1001438885013
+Username: @quarkus
+--------------------------------------------------
+Channel: Книги для Java программиста
+ID: -1001233816868
+Username: @bookofgeek
+--------------------------------------------------
+Channel: Java Engineers chat
+ID: -1002163132690
+--------------------------------------------------
+Channel: Java Engineers
+ID: -1002080993829
+--------------------------------------------------
+Channel: Java Fusion
+ID: -1001936264578
+Username: @JavaFusion
+--------------------------------------------------
+Channel: Ruby & Elixir Job | Jooby.dev
+ID: -1001089319619
+Username: @rubyjob
+--------------------------------------------------
+Channel: Remote Software Developer Jobs (English)
+ID: -1001766824384
+Username: @Remote_Software_Developer_Jobs
+--------------------------------------------------
+Channel: Segment@tion fault
+ID: -1001259699193
+Username: @psauxww
+--------------------------------------------------
+Channel: IT Ментор | Сергей Жуков
+ID: -1001689125456
+Username: @zhukovsd_it_mentor
+--------------------------------------------------
+Channel: EXCEL FEATURES | BI & AI
+ID: -1001582133241
+Username: @excelfeature
+--------------------------------------------------
+Channel: Javabooks. Книги по Java
+ID: -1001962181694
+Username: @booksforjava
+--------------------------------------------------
+Channel: Generative AI
+ID: -1002130939818
+Username: @generativeai_gpt
+--------------------------------------------------
+Channel: Golang Books
+ID: -1001777473942
+Username: @golang_books
+--------------------------------------------------
+Channel: Ready.code - JS development. Releases and new articles
+ID: -1002071087551
+Username: @ready_dot_code
+--------------------------------------------------
+Channel: ML Zoomcamp announcements
+ID: -1001435532197
+Username: @mlzoomcamp
+--------------------------------------------------
+Channel: Remote DevOps Jobs 🌐✨
+ID: -1002085804627
+Username: @remote_devops_jobs
+--------------------------------------------------
+Channel: Website Themes Free Themes
+ID: -1001342137563
+Username: @websitesthemes
+--------------------------------------------------
+Channel: Devops tips & tricks
+ID: -1001170596798
+Username: @dailyops
+--------------------------------------------------
+Channel: Data Science Portfolio - Kaggle Datasets & AI Projects | Artificial Intelligence
+ID: -1002088681854
+Username: @DataPortfolio
+--------------------------------------------------
+Channel: קנבה פרו בחינם - free canva pro
+ID: -1001530935674
+Username: @canva_il
+--------------------------------------------------
+Channel: Engineering Programs and Mobile Apps
+ID: -1002043549166
+Username: @ProgramsStore
+--------------------------------------------------
+Channel: Java задачи с собеседований
+ID: -1001236713425
+Username: @javaquiz
+--------------------------------------------------
+Channel: Python for Data Analysts
+ID: -1001581238223
+Username: @pythonanalyst
+--------------------------------------------------
+Channel: Anything Pastor Chris Oyakhilome.
+ID: -1001184917433
+Username: @anythingPastorChris
+--------------------------------------------------
+Channel: APKDONE Official ⚡️
+ID: -1001805670646
+Username: @apkdoneapp
+--------------------------------------------------
+Channel: Tech with Hearts Group Chat
+ID: -1001618286895
+--------------------------------------------------
+Channel: Библиотека С# С++
+ID: -1001224151555
+Username: @cpluscsharp
+--------------------------------------------------
+Channel: SQL/MySQL/ORACLE DBA Learning
+ID: -1001606342846
+Username: @SQL_MySQL
+--------------------------------------------------
+Channel: Rhapsody Of Realities Library 📚
+ID: -1001151683668
+Username: @rhapsodylibrary
+--------------------------------------------------
+Channel: Loveworld Singers Music
+ID: -1001673208978
+Username: @loveworldsingersmusic
+--------------------------------------------------
+Channel: LOVEWORLD LYRICS
+ID: -1001588783849
+Username: @loveworldlyrics
+--------------------------------------------------
+Channel: Word of the Month
+ID: -1001634085424
+Username: @wordofthemonth
+--------------------------------------------------
+Channel: Loveworld Notes et al
+ID: -1001376990364
+Username: @loveworldnotes_etc
+--------------------------------------------------
+Channel: SQL Database Mastery
+ID: -1001660295583
+Username: @sql_databases
+--------------------------------------------------
+Channel: Linkedin Learning Courses
+ID: -1001290723906
+Username: @linkedin_learning
+--------------------------------------------------
+Channel: 𝖸σ𝗎ɾ ᏞσvҽᏔⓞɾlժ
+ID: -1001473370065
+Username: @loveworldspecials
+--------------------------------------------------
+Channel: Learn JavaScript
+ID: -1001615884737
+Username: @JavaScript_Trainings
+--------------------------------------------------
+Channel: Web Development
+ID: -1001439389978
+Username: @webdev_trainings
+--------------------------------------------------
+Channel: Linux and DevOps
+ID: -1001701024585
+Username: @LinuxMastery
+--------------------------------------------------
+Channel: Learn React and NextJs
+ID: -1001553157104
+Username: @React_Training
+--------------------------------------------------
+Channel: Django Expert
+ID: -1001356653634
+Username: @djangoex
+--------------------------------------------------
+Channel: Архив книг. Книги по программированию.
+ID: -1001952854649
+Username: @dsbookru
+--------------------------------------------------
+Channel: Houdini School
+ID: -1001527827954
+Username: @houdinischool
+--------------------------------------------------
+Channel: Zero To Mastery
+ID: -1001267844032
+Username: @zero_to_mastery
+--------------------------------------------------
+Channel: Best Telegram Channels
+ID: -1001399464178
+Username: @Gram_Channels
+--------------------------------------------------
+Channel: App Mastery
+ID: -1001578526838
+Username: @APP_Mastery
+--------------------------------------------------
+Channel: Java Книги. Книги по программированию на Java
+ID: -1001425440926
+Username: @javabooksarchive
+--------------------------------------------------
+Channel: The Ultimate React Course 2023 React, Redux & More
+ID: -1001839928336
+Username: @ReactbyJonas
+--------------------------------------------------
+Channel: Pastor Chris Oyakhilome Books
+ID: -1001192704034
+Username: @pastorchrisbooks
+--------------------------------------------------
+Channel: Programmer's DevLife
+ID: -1001565487806
+--------------------------------------------------
+Channel: DevOps Career Hub☁️🔁
+ID: -1002013100121
+Username: @cloudanDevops
+--------------------------------------------------
+Channel: LOVEWORLD - UNENDING PRAISE🇬🇭
+ID: -1001888422845
+Username: @loveworld_unending_praise
+--------------------------------------------------
+Channel: Ralf Hacker Channel
+ID: -1001360213421
+Username: @RalfHackerChannel
+--------------------------------------------------
+Channel: Библиотека баз данных
+ID: -1001831704125
+Username: @sql_lib
+--------------------------------------------------
+Channel: Discussion - Golang Farsi
+ID: -1001727306119
+Username: @golangdiscussionfarsi
+--------------------------------------------------
+Channel: Security Wine (бывший - DevSecOps Wine)
+ID: -1001479110870
+Username: @sec_devops
+--------------------------------------------------
+Channel: Linux and DevOps books
+ID: -1001238451624
+Username: @linux_books
+--------------------------------------------------
+Channel: Rust for Python developers
+ID: -1001873037345
+Username: @pyrust
+--------------------------------------------------
+Channel: LOVEWORLD / GINOSKO TV NEWS BROADCAST
+ID: -1001432783867
+Username: @fortuneamaruiBROADCAST
+--------------------------------------------------
+Channel: Java книги по программированию
+ID: -1001197249001
+Username: @booksjava
+--------------------------------------------------
+Channel: Golang drawer
+ID: -1001395307368
+Username: @golang101
+--------------------------------------------------
+Channel: Remote Jobs
+ID: -1001385274097
+Username: @remotejobss
+--------------------------------------------------
+Channel: Blender Add-ons
+ID: -1001808943659
+Username: @blender_addons_01
+--------------------------------------------------
+Channel: Микросервисы / распределенные системы
+ID: -1001165052727
+Username: @microservices_arch
+--------------------------------------------------
+Channel: Save Restricted Content
+ID: -1002205315270
+Username: @forward_restricted_message
+--------------------------------------------------
+Channel: TalkaboutJesus
+ID: -1002077065177
+Username: @talkaboutJesusTallinn
+--------------------------------------------------
+Channel: Healing Streams Estonia
+ID: -1002140726964
+--------------------------------------------------
+Channel: Celebrating You:::: The greatest Gift from God
+ID: -1002085544020
+--------------------------------------------------
+Channel: Christ Embassy Estonia
+ID: -1001635732815
+--------------------------------------------------
+Channel: In Search of God || Programs|| Softwares||Books & Games
+ID: -1001586025086
+--------------------------------------------------
+Channel: Иисус любит русских
+ID: -1002024969924
+--------------------------------------------------
+Channel: Complete.Discount Coupons
+ID: -1001801714364
+Username: @freeudemycourse10
+--------------------------------------------------
+Channel: Remote Jobs today
+ID: -1002137226089
+Username: @remote_jobs_today
+--------------------------------------------------
+Channel: Java,spring boot & Micro services
+ID: -1001417544077
+Username: @java_springboot_microservices
+--------------------------------------------------
+Channel: Google Drive Links
+ID: -1001710449528
+Username: @gdrivet
+--------------------------------------------------
+Channel: Canva Free | كانفا برو مجاناً
+ID: -1001955497753
+Username: @Canva_7Pro
+--------------------------------------------------
+Channel: T3P - Technology To The Point (Learn Azure, AWS, OCI, DevOps, CyberSecurity, Kubernetes, Data Science for free)
+ID: -1001845070352
+Username: @t3pacademy
+--------------------------------------------------
+Channel: IT freelance and remote
+ID: -1001322716726
+Username: @itfreelancers
+--------------------------------------------------
+Channel: Jobs and Internships Updates
+ID: -1001475939687
+Username: @jobsandinternshipsupdates
+--------------------------------------------------
+Channel: Go
+ID: -1001003436297
+Username: @golang
+--------------------------------------------------
+Channel: Free Courses with Certificate | Microsoft | Harvard | Udacity | Coursera | Python Coding | ML | Data Science | AI | Crypto
+ID: -1001277667926
+Username: @free4unow_backup
+--------------------------------------------------
+Channel: Lσvҽωσɾlժ Links
+ID: -1001345348584
+Username: @loveworldlinks
+--------------------------------------------------
+Channel: Awesome Rust
+ID: -1001184205666
+Username: @rustawesome
+--------------------------------------------------
+Channel: Павел Сорокин | Java
+ID: -1001980802575
+Username: @S0R0KlN
+--------------------------------------------------
+Channel: Tech with Hearts
+ID: -1001861934586
+--------------------------------------------------
+Channel: Minutes With Pastor Chris
+ID: -1001682281238
+Username: @minuteswithPastorChris
+--------------------------------------------------
+Channel: Dayo Writes☺️
+ID: -1002005444951
+--------------------------------------------------
+Channel: Code with Brij
+ID: -1001521356365
+Username: @codewithbrij
+--------------------------------------------------
+Channel: Real time issue on kubernetes
+ID: -1001542329310
+Username: @kubernetesissue
+--------------------------------------------------
+Channel: DevOps(Document Repository)
+ID: -1001855416863
+Username: @DevopsDoc
+--------------------------------------------------
+Channel: Hide01 but free
+ID: -1001732878487
+Username: @hide01free
+--------------------------------------------------
+Channel: Remote jobs
+ID: -1001657521883
+Username: @Remotely_positions
+--------------------------------------------------
+Channel: Mr.Cloud Book
+ID: -1001753799398
+Username: @mrcloudbookAj
+--------------------------------------------------
+Channel: Threejs course
+ID: -1001829514855
+Username: @three_js_course
+--------------------------------------------------
+Channel: Frontend developer☺️ programmer
+ID: -1001953545861
+Username: @indianhtmlweb
+--------------------------------------------------
+Channel: Free Quiz (Java,Spring *,C,React,Angular etc...)
+ID: -1001598135221
+Username: @corejavabasicconcept
+--------------------------------------------------
+Channel: Content Writas
+ID: -1002224081367
+Username: @ContentWritas
+--------------------------------------------------
+Channel: Github tools
+ID: -1001580183349
+Username: @githubx
+--------------------------------------------------
+Channel: X Ambassadors
+ID: -1002125130621
+Username: @ThorAff
+--------------------------------------------------
+Channel: Allthingsphp
+ID: -1002222460296
+--------------------------------------------------
+Channel: java_materials
+ID: -1001241659892
+Username: @ameerpetmaterials
+--------------------------------------------------
+Channel: RoadToJava | Abdurakhmon雨
+ID: -1001891825354
+Username: @blog_javadev
+--------------------------------------------------
+Channel: pub ThisWeekInRust {}
+ID: -1001090384864
+Username: @this_week_in_rust
+--------------------------------------------------
+Group: BandOfBrothers
+ID: -4511748535
+--------------------------------------------------
+Channel: Books - NFT Books | Selfhelp | Nonfiction
+ID: -1001055934649
+Username: @Books
+--------------------------------------------------
+Channel: Rust Fusion
+ID: -1002085153506
+Username: @RustFusion
+--------------------------------------------------
+Channel: Envato Element / Themeforest Freebies
+ID: -1001779257101
+Username: @envatoisfree
+--------------------------------------------------
+Channel: Beautiful Souls
+ID: -1001494237698
+--------------------------------------------------
+Channel: Spring (Boot)
+ID: -1001125087669
+Username: @springtutorial
+--------------------------------------------------
+Channel: Headstart Oasis: Opportunities, Grants, Scholarships, Prizes, Vacancies and more...
+ID: -1001244267470
+Username: @HeadstartOasis
+--------------------------------------------------
+Channel: Pluralsight Courses
+ID: -1001258134493
+Username: @Pluralsight_Courses
+--------------------------------------------------
+Channel: Codaholic
+ID: -1002240234891
+Username: @codaholichq
+--------------------------------------------------
+Channel: educative.io
+ID: -1001638932848
+Username: @educative_io_courses
+--------------------------------------------------
+Channel: Devops realtime scenarios - articles, videos
+ID: -1001691367563
+Username: @devopslearners_channel
+--------------------------------------------------
+Channel: Coding Resources
+ID: -1001607401764
+Username: @Coding_notes_and_resources
+--------------------------------------------------
+Channel: Ms Excel and VBA Macros💻⌨🖥
+ID: -1001490389386
+Username: @MS_Excel_and_VBA_Macros
+--------------------------------------------------
+Channel: React Fiber and three Js by Bruno Simons 1 July 2024 Update
+ID: -1001831781105
+Username: @threejsbybrunosimon
+--------------------------------------------------
+Channel: ZERO TO MASTERY COURSES
+ID: -1001691639586
+Username: @zerotomasterycourse
+--------------------------------------------------
+Channel: Обзор Нейросетей
+ID: -1001855388242
+Username: @obzor_neirosetei
+--------------------------------------------------
+Channel: Free programming books
+ID: -1001476438920
+Username: @programming_books_bds
+--------------------------------------------------
+Channel: ByteGrad - Professional React & Next.js
+ID: -1002063648964
+Username: @ByteGrad_React_Nextjs
+--------------------------------------------------
+Channel: Cod.ewithfun
+ID: -1001827494453
+Username: @codewithfun69
+--------------------------------------------------
+Channel: LinkedIn Learning (Lynda)
+ID: -1001253792368
+--------------------------------------------------
+Channel: Group Booster News
+ID: -1001350801391
+Username: @gpbooster
+--------------------------------------------------
+Channel: Coding Community
+ID: -1001608883201
+Username: @Coding_CommunityOfficial
+--------------------------------------------------
+Channel: jonas schmedtmann Java Script
+ID: -1002139556683
+Username: @jonas_schmedtmann_js_javaScript
+--------------------------------------------------
+Channel: React (Native & JS) | Redux | JS | Typescript
+ID: -1001633144318
+Username: @explore_react
+--------------------------------------------------
+Channel: Free Programming Books 📚
+ID: -1001934916356
+--------------------------------------------------
+Channel: Loveworld Estonia
+ID: -1001190948242
+--------------------------------------------------
+Group: Pastor Sarah & St. Adlexx Wedding 🥰
+ID: -847652688
+--------------------------------------------------
+Channel: Angular Fanatic
+ID: -1001253674470
+Username: @ngFanatic
+--------------------------------------------------
+Channel: All Golang Books
+ID: -1001565762491
+Username: @allgobooks
+--------------------------------------------------
+Channel: 3D Models for Architects and Interior Designers
+ID: -1001386421983
+Username: @archi_models
+--------------------------------------------------
+Channel: Programming Channel Developers Community Group Discussion | Web Frontend Backend React JS Coders AI Blockchain
+ID: -1002076296504
+Username: @Programmers_Developers_Group
+--------------------------------------------------
+Channel: LOVEWORLD BEST SONGS
+ID: -1001688556735
+Username: @LoveworldBestSongs
+--------------------------------------------------
+Channel: Java kid
+ID: -1001667195029
+Username: @dimonjava
+--------------------------------------------------
+Channel: Uk Fully funded scholarships
+ID: -1001292166676
+Username: @ukscholarships2022
+--------------------------------------------------
+Channel: HTML, CSS & JS Projects
+ID: -1001893153760
+Username: @fulljavascript2023
+--------------------------------------------------
+Group: Paid python master class
+ID: -4044200492
+--------------------------------------------------
+Channel: Elementor Templates
+ID: -1001473313272
+Username: @elementortemplates
+--------------------------------------------------
+Channel: JavaPrime
+ID: -1002081007242
+--------------------------------------------------
+Channel: 100 Days of Code – The Complete Python Pro Bootcamp
+ID: -1001726484056
+Username: @python_100_days_of_code
+--------------------------------------------------
+Channel: RedBlue Free Backup
+ID: -1001823302642
+Username: @RedBlueBackup
+--------------------------------------------------
+Channel: Course Master ⚡Archive
+ID: -1001934163581
+Username: @CourseMasterproarchive
+--------------------------------------------------
+Channel: Namaste SQL
+ID: -1001797504714
+Username: @namastesql
+--------------------------------------------------
+Channel: Udemy - Nodejs Express MongoDB More The Complete Bootcamp 2024
+ID: -1002056040665
+Username: @node_js_2024
+--------------------------------------------------
+Channel: God Seekers | Fast & Prayer
+ID: -1001871712904
+Username: @godseekersfast
+--------------------------------------------------
+Channel: FOREX TRADE INVESTMENT
+ID: -1001493279355
+--------------------------------------------------
+Channel: Academind Courses
+ID: -1001859263836
+Username: @academindcourse
+--------------------------------------------------
+Channel: FRONTEND MASTERS
+ID: -1001940131393
+Username: @frontend_masters_course
+--------------------------------------------------
+Group: Softwarebites
+ID: -928874485
+--------------------------------------------------
+Channel: Udacity Courses
+ID: -1001135261496
+Username: @udacity
+--------------------------------------------------
+Channel: BLENDER ADDONS
+ID: -1001895213820
+Username: @blender_addons_uz
+--------------------------------------------------
+Channel: The Hagin channel
+ID: -1001438588270
+Username: @KennethHagin
+--------------------------------------------------
+Channel: JAVA FULL STACK COURSE
+ID: -1001635036216
+Username: @lokijava
+--------------------------------------------------
+Channel: Rust books
+ID: -1001555244930
+Username: @rust_book
+--------------------------------------------------
+Channel: [SIC] Frontend Master
+ID: -1001869907918
+Username: @front_end_master
+--------------------------------------------------
+Channel: Vue Mastery
+ID: -1001858693810
+Username: @vuemastery_Sohrab
+--------------------------------------------------
+Channel: Theophilus Sunday Music
+ID: -1001640915866
+Username: @theophilusSu
+--------------------------------------------------
+Group: Christ Embassy Estonia
+ID: -715615350
+--------------------------------------------------
+Channel: Slideshare ppt
+ID: -1001790566344
+Username: @slideshareppt
+--------------------------------------------------
+Channel: Java programming videos
+ID: -1001265713095
+Username: @javaprogrammingvideos
+--------------------------------------------------
+Channel: Savollar - Spring Framework Uz
+ID: -1001774328056
+Username: @spring_boot_uz_savollar
+--------------------------------------------------
+Channel: International Swap Community
+ID: -1001640372505
+Username: @intswapcommunity
+--------------------------------------------------
+Channel: Норвежские заметки 🇳🇴
+ID: -1001157819851
+--------------------------------------------------
+Channel: Kotlin Multiplatform English Discussion
+ID: -1001674059176
+Username: @kmmDisscussEn
+--------------------------------------------------
+Channel: Free Excel Templates
+ID: -1001640013171
+Username: @exceltemplatesfree
+--------------------------------------------------
+Channel: Wordpress Themes & Plugins Nulled
+ID: -1001586682185
+Username: @wpthemespro
+--------------------------------------------------
+Channel: GAMERZ INC
+ID: -1001414219804
+--------------------------------------------------
+Channel: Vue Mastery Courses
+ID: -1001272751544
+Username: @vue_mastery_courses
+--------------------------------------------------
+Channel: Spring Boot JAVA
+ID: -1001270652312
+Username: @springboothyper
+--------------------------------------------------
+Channel: Python / Django работа
+ID: -1001228662706
+Username: @python_jobs_ru
+--------------------------------------------------
+Channel: Spring Boot Interview Questions
+ID: -1001188682171
+Username: @springbootinterview
+--------------------------------------------------
+Channel: PC PARADISE ET AL
+ID: -1001495228648
+--------------------------------------------------
